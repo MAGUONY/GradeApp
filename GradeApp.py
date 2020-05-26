@@ -28,7 +28,7 @@ def main():
         if(keepGoing == "n"):
             print("Thank you for trying this app. Have a good one!")
             theLoop = 0
-                  
+            input("Press enter to exit...")
 
 
 main()
